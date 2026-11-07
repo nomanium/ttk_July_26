@@ -1,4 +1,4 @@
-// @ts-check _ mazidul_example_1
+// @ts-check _ mazidul_example_3
 import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
